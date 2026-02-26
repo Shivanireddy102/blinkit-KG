@@ -1,0 +1,97 @@
+🥛 Milk & Dairy
+
+Full cream milk options
+
+Best milk under 50 rupees
+
+Low fat milk options
+
+Amul milk price
+
+Cheapest milk available
+
+Curd under 40 rupees
+
+Best paneer brand
+
+🍫 Snacks
+
+Healthy snacks under 200
+
+Protein snacks
+
+Low calorie snacks
+
+Best chips under 30
+
+Namkeen under 100
+
+Chocolate under 150
+
+Sugar free biscuits
+
+🥤 Beverages
+
+Cold drinks under 100
+
+Fruit juice options
+
+Best green tea
+
+Coffee under 300
+
+Energy drinks
+
+Budget soft drinks
+
+🍎 Fruits & Vegetables
+
+Fresh apples
+
+Organic vegetables
+
+Tomatoes under 40
+
+Seasonal fruits
+
+Budget vegetables
+
+🛒 Budget Based Queries (Very Important for Testing)
+
+Grocery items under 100
+
+Best products under 50
+
+Snacks between 50 and 150
+
+Healthy items under 200
+
+Cheapest products available
+
+🧠 Semantic Queries (Test Embedding Quality)
+
+These test if your embeddings are working well:
+
+Something good for breakfast
+
+Healthy evening snack options
+
+Products for weight loss
+
+Protein rich food
+
+Kids friendly snacks
+
+Quick ready to eat food
+
+🔥 Advanced Testing
+
+Which milk is best value for money?
+
+Compare Amul and Mother Dairy milk
+
+What snacks are good for gym diet?
+
+Suggest healthy products below 150
+
+What can I buy under 500 rupees?

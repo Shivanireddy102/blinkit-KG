@@ -1,0 +1,82 @@
+[
+  {
+    "store_id": "S001",
+    "name": "Central Market"
+  },
+  {
+    "store_id": "S002",
+    "name": "North Plus"
+  },
+  {
+    "store_id": "S003",
+    "name": "East Express"
+  },
+  {
+    "store_id": "S004",
+    "name": "East Fresh"
+  },
+  {
+    "store_id": "S005",
+    "name": "City Direct"
+  },
+  {
+    "store_id": "S006",
+    "name": "City Market"
+  },
+  {
+    "store_id": "S007",
+    "name": "South Store"
+  },
+  {
+    "store_id": "S008",
+    "name": "East Smart"
+  },
+  {
+    "store_id": "S009",
+    "name": "North Plus"
+  },
+  {
+    "store_id": "S010",
+    "name": "Grand Smart"
+  },
+  {
+    "store_id": "S011",
+    "name": "East Direct"
+  },
+  {
+    "store_id": "S012",
+    "name": "East Market"
+  },
+  {
+    "store_id": "S013",
+    "name": "Central Plus"
+  },
+  {
+    "store_id": "S014",
+    "name": "North Plus"
+  },
+  {
+    "store_id": "S015",
+    "name": "West Depot"
+  },
+  {
+    "store_id": "S016",
+    "name": "South Plus"
+  },
+  {
+    "store_id": "S017",
+    "name": "City Direct"
+  },
+  {
+    "store_id": "S018",
+    "name": "Grand Hub"
+  },
+  {
+    "store_id": "S019",
+    "name": "West Hub"
+  },
+  {
+    "store_id": "S020",
+    "name": "East Direct"
+  }
+]

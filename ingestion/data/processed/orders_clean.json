@@ -1,0 +1,6994 @@
+[
+  {
+    "order_id": "ORD0001",
+    "customer_id": "C001",
+    "store_id": "S001",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-05-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0002",
+    "customer_id": "C001",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-04-20",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0003",
+    "customer_id": "C001",
+    "store_id": "S015",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-11-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0004",
+    "customer_id": "C002",
+    "store_id": "S008",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-06-17",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0005",
+    "customer_id": "C002",
+    "store_id": "S011",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-03-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0006",
+    "customer_id": "C002",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-12-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0007",
+    "customer_id": "C002",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-05",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0008",
+    "customer_id": "C002",
+    "store_id": "S013",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-02-19",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0009",
+    "customer_id": "C003",
+    "store_id": "S003",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-04-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0010",
+    "customer_id": "C004",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-01-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0011",
+    "customer_id": "C004",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-12-25",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0012",
+    "customer_id": "C004",
+    "store_id": "S008",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-09-28",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0013",
+    "customer_id": "C004",
+    "store_id": "S019",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-09-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0014",
+    "customer_id": "C005",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-12",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0015",
+    "customer_id": "C005",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0016",
+    "customer_id": "C006",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-10-12",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0017",
+    "customer_id": "C006",
+    "store_id": "S019",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-09-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0018",
+    "customer_id": "C006",
+    "store_id": "S008",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-11-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0019",
+    "customer_id": "C006",
+    "store_id": "S009",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-09-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0020",
+    "customer_id": "C006",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-09-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0021",
+    "customer_id": "C006",
+    "store_id": "S013",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-08-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0022",
+    "customer_id": "C006",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-09-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0023",
+    "customer_id": "C006",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-07",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0024",
+    "customer_id": "C007",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-01-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0025",
+    "customer_id": "C007",
+    "store_id": "S002",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-12-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0026",
+    "customer_id": "C007",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0027",
+    "customer_id": "C007",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0028",
+    "customer_id": "C007",
+    "store_id": "S019",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-09-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0029",
+    "customer_id": "C008",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0030",
+    "customer_id": "C008",
+    "store_id": "S007",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-06-10",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0031",
+    "customer_id": "C008",
+    "store_id": "S001",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-08-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0032",
+    "customer_id": "C008",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-07-22",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0033",
+    "customer_id": "C009",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0034",
+    "customer_id": "C010",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-03-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0035",
+    "customer_id": "C010",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0036",
+    "customer_id": "C010",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-11-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0037",
+    "customer_id": "C010",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0038",
+    "customer_id": "C010",
+    "store_id": "S014",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-01-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0039",
+    "customer_id": "C010",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-10-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0040",
+    "customer_id": "C010",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-06-07",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0041",
+    "customer_id": "C010",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-07-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0042",
+    "customer_id": "C011",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-16",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0043",
+    "customer_id": "C011",
+    "store_id": "S011",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-01-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0044",
+    "customer_id": "C011",
+    "store_id": "S011",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-01-26",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0045",
+    "customer_id": "C011",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0046",
+    "customer_id": "C011",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-09-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0047",
+    "customer_id": "C012",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-03-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0048",
+    "customer_id": "C012",
+    "store_id": "S003",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-10-10",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0049",
+    "customer_id": "C012",
+    "store_id": "S010",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-02-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0050",
+    "customer_id": "C012",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-03-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0051",
+    "customer_id": "C012",
+    "store_id": "S009",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-04-21",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0052",
+    "customer_id": "C012",
+    "store_id": "S019",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-03-10",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0053",
+    "customer_id": "C013",
+    "store_id": "S013",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-10-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0054",
+    "customer_id": "C013",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-10-21",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0055",
+    "customer_id": "C013",
+    "store_id": "S020",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-11-06",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0056",
+    "customer_id": "C013",
+    "store_id": "S015",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-05-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0057",
+    "customer_id": "C014",
+    "store_id": "S006",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0058",
+    "customer_id": "C014",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0059",
+    "customer_id": "C014",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-02-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0060",
+    "customer_id": "C014",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-11-19",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0061",
+    "customer_id": "C014",
+    "store_id": "S016",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-07-28",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0062",
+    "customer_id": "C014",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-02-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0063",
+    "customer_id": "C014",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-12-14",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0064",
+    "customer_id": "C015",
+    "store_id": "S012",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-08-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0065",
+    "customer_id": "C016",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-10",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0066",
+    "customer_id": "C016",
+    "store_id": "S020",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-12-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0067",
+    "customer_id": "C016",
+    "store_id": "S018",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-08-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0068",
+    "customer_id": "C016",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-06-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0069",
+    "customer_id": "C016",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-09-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0070",
+    "customer_id": "C017",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-04-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0071",
+    "customer_id": "C017",
+    "store_id": "S013",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-05-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0072",
+    "customer_id": "C017",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-11-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0073",
+    "customer_id": "C017",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-02-28",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0074",
+    "customer_id": "C017",
+    "store_id": "S011",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-06-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0075",
+    "customer_id": "C017",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0076",
+    "customer_id": "C017",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-04-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0077",
+    "customer_id": "C017",
+    "store_id": "S018",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-20",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0078",
+    "customer_id": "C018",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0079",
+    "customer_id": "C018",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-01-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0080",
+    "customer_id": "C018",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-03-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0081",
+    "customer_id": "C018",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-04-27",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0082",
+    "customer_id": "C018",
+    "store_id": "S008",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-02-26",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0083",
+    "customer_id": "C018",
+    "store_id": "S007",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0084",
+    "customer_id": "C019",
+    "store_id": "S018",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-11-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0085",
+    "customer_id": "C019",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-08-12",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0086",
+    "customer_id": "C019",
+    "store_id": "S001",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-09-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0087",
+    "customer_id": "C019",
+    "store_id": "S017",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-11-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0088",
+    "customer_id": "C019",
+    "store_id": "S017",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-12-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0089",
+    "customer_id": "C019",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-06-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0090",
+    "customer_id": "C019",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-04-04",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0091",
+    "customer_id": "C020",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0092",
+    "customer_id": "C020",
+    "store_id": "S003",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-06-03",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0093",
+    "customer_id": "C020",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0094",
+    "customer_id": "C020",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-06-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0095",
+    "customer_id": "C020",
+    "store_id": "S011",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0096",
+    "customer_id": "C021",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-12-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0097",
+    "customer_id": "C021",
+    "store_id": "S011",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-12-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0098",
+    "customer_id": "C021",
+    "store_id": "S007",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-12",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0099",
+    "customer_id": "C021",
+    "store_id": "S010",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0100",
+    "customer_id": "C021",
+    "store_id": "S020",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-02-14",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0101",
+    "customer_id": "C021",
+    "store_id": "S018",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-04-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0102",
+    "customer_id": "C022",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-06-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0103",
+    "customer_id": "C022",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-04-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0104",
+    "customer_id": "C022",
+    "store_id": "S008",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-28",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0105",
+    "customer_id": "C022",
+    "store_id": "S008",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-04-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0106",
+    "customer_id": "C022",
+    "store_id": "S016",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-23",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0107",
+    "customer_id": "C023",
+    "store_id": "S018",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-04-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0108",
+    "customer_id": "C023",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-05-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0109",
+    "customer_id": "C023",
+    "store_id": "S020",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-03-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0110",
+    "customer_id": "C024",
+    "store_id": "S013",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-02-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0111",
+    "customer_id": "C025",
+    "store_id": "S004",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-12-07",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0112",
+    "customer_id": "C025",
+    "store_id": "S015",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-19",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0113",
+    "customer_id": "C025",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-07-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0114",
+    "customer_id": "C025",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-07-10",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0115",
+    "customer_id": "C026",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-03-23",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0116",
+    "customer_id": "C026",
+    "store_id": "S017",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-03-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0117",
+    "customer_id": "C026",
+    "store_id": "S018",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0118",
+    "customer_id": "C026",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-12-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0119",
+    "customer_id": "C026",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0120",
+    "customer_id": "C026",
+    "store_id": "S013",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0121",
+    "customer_id": "C027",
+    "store_id": "S008",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-07-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0122",
+    "customer_id": "C027",
+    "store_id": "S020",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0123",
+    "customer_id": "C027",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-11-29",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0124",
+    "customer_id": "C027",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-04",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0125",
+    "customer_id": "C027",
+    "store_id": "S016",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0126",
+    "customer_id": "C028",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-02-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0127",
+    "customer_id": "C028",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-26",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0128",
+    "customer_id": "C028",
+    "store_id": "S010",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-12-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0129",
+    "customer_id": "C028",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-18",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0130",
+    "customer_id": "C028",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-09-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0131",
+    "customer_id": "C028",
+    "store_id": "S007",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0132",
+    "customer_id": "C028",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-12-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0133",
+    "customer_id": "C029",
+    "store_id": "S015",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-05-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0134",
+    "customer_id": "C029",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0135",
+    "customer_id": "C029",
+    "store_id": "S008",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0136",
+    "customer_id": "C029",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0137",
+    "customer_id": "C029",
+    "store_id": "S002",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-09-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0138",
+    "customer_id": "C029",
+    "store_id": "S013",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-02-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0139",
+    "customer_id": "C029",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-12-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0140",
+    "customer_id": "C029",
+    "store_id": "S011",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0141",
+    "customer_id": "C030",
+    "store_id": "S001",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-04-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0142",
+    "customer_id": "C030",
+    "store_id": "S002",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-06-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0143",
+    "customer_id": "C030",
+    "store_id": "S011",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-12-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0144",
+    "customer_id": "C030",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0145",
+    "customer_id": "C030",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-09-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0146",
+    "customer_id": "C030",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-07-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0147",
+    "customer_id": "C030",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0148",
+    "customer_id": "C030",
+    "store_id": "S018",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-12-13",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0149",
+    "customer_id": "C031",
+    "store_id": "S008",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-12-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0150",
+    "customer_id": "C031",
+    "store_id": "S016",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0151",
+    "customer_id": "C031",
+    "store_id": "S006",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-06-30",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0152",
+    "customer_id": "C031",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-01-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0153",
+    "customer_id": "C032",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-07-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0154",
+    "customer_id": "C032",
+    "store_id": "S015",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-01-15",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0155",
+    "customer_id": "C032",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0156",
+    "customer_id": "C032",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-01-07",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0157",
+    "customer_id": "C032",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0158",
+    "customer_id": "C032",
+    "store_id": "S006",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-12-21",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0159",
+    "customer_id": "C032",
+    "store_id": "S008",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-04-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0160",
+    "customer_id": "C032",
+    "store_id": "S003",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-07-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0161",
+    "customer_id": "C033",
+    "store_id": "S017",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-04-09",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0162",
+    "customer_id": "C033",
+    "store_id": "S018",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-11-12",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0163",
+    "customer_id": "C034",
+    "store_id": "S007",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-03-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0164",
+    "customer_id": "C035",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-05-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0165",
+    "customer_id": "C036",
+    "store_id": "S017",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-08-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0166",
+    "customer_id": "C036",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0167",
+    "customer_id": "C036",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-11-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0168",
+    "customer_id": "C036",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-02-19",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0169",
+    "customer_id": "C036",
+    "store_id": "S008",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0170",
+    "customer_id": "C036",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-11-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0171",
+    "customer_id": "C036",
+    "store_id": "S010",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0172",
+    "customer_id": "C037",
+    "store_id": "S012",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-11-23",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0173",
+    "customer_id": "C038",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-29",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0174",
+    "customer_id": "C038",
+    "store_id": "S011",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-01-15",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0175",
+    "customer_id": "C038",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0176",
+    "customer_id": "C038",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-05-01",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0177",
+    "customer_id": "C038",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-10-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0178",
+    "customer_id": "C039",
+    "store_id": "S011",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-02-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0179",
+    "customer_id": "C039",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0180",
+    "customer_id": "C039",
+    "store_id": "S018",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0181",
+    "customer_id": "C039",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0182",
+    "customer_id": "C039",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-08-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0183",
+    "customer_id": "C039",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-01-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0184",
+    "customer_id": "C039",
+    "store_id": "S016",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-07-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0185",
+    "customer_id": "C039",
+    "store_id": "S006",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-06-20",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0186",
+    "customer_id": "C040",
+    "store_id": "S013",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-02-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0187",
+    "customer_id": "C040",
+    "store_id": "S013",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-05-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0188",
+    "customer_id": "C040",
+    "store_id": "S006",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-03-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0189",
+    "customer_id": "C040",
+    "store_id": "S019",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0190",
+    "customer_id": "C040",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-12-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0191",
+    "customer_id": "C041",
+    "store_id": "S003",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-12-21",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0192",
+    "customer_id": "C041",
+    "store_id": "S008",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-09-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0193",
+    "customer_id": "C041",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0194",
+    "customer_id": "C042",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-21",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0195",
+    "customer_id": "C042",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-07-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0196",
+    "customer_id": "C042",
+    "store_id": "S018",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-11-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0197",
+    "customer_id": "C043",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0198",
+    "customer_id": "C043",
+    "store_id": "S014",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0199",
+    "customer_id": "C043",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-02-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0200",
+    "customer_id": "C044",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-12-12",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0201",
+    "customer_id": "C044",
+    "store_id": "S011",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-10-10",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0202",
+    "customer_id": "C044",
+    "store_id": "S019",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0203",
+    "customer_id": "C045",
+    "store_id": "S015",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-12",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0204",
+    "customer_id": "C045",
+    "store_id": "S014",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-09-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0205",
+    "customer_id": "C045",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-12-30",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0206",
+    "customer_id": "C045",
+    "store_id": "S011",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-04-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0207",
+    "customer_id": "C046",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0208",
+    "customer_id": "C046",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-12-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0209",
+    "customer_id": "C046",
+    "store_id": "S011",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0210",
+    "customer_id": "C046",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-09-07",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0211",
+    "customer_id": "C046",
+    "store_id": "S014",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-09-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0212",
+    "customer_id": "C046",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-12-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0213",
+    "customer_id": "C046",
+    "store_id": "S018",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-07-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0214",
+    "customer_id": "C047",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-11-20",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0215",
+    "customer_id": "C047",
+    "store_id": "S008",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-01-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0216",
+    "customer_id": "C047",
+    "store_id": "S019",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-05-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0217",
+    "customer_id": "C047",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-01-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0218",
+    "customer_id": "C047",
+    "store_id": "S007",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-06-01",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0219",
+    "customer_id": "C047",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-08-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0220",
+    "customer_id": "C048",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0221",
+    "customer_id": "C048",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-10-31",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0222",
+    "customer_id": "C048",
+    "store_id": "S012",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0223",
+    "customer_id": "C048",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-07-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0224",
+    "customer_id": "C048",
+    "store_id": "S020",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0225",
+    "customer_id": "C048",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-05-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0226",
+    "customer_id": "C048",
+    "store_id": "S013",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-10-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0227",
+    "customer_id": "C048",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-12",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0228",
+    "customer_id": "C049",
+    "store_id": "S003",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-03-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0229",
+    "customer_id": "C049",
+    "store_id": "S011",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-08-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0230",
+    "customer_id": "C049",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-01-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0231",
+    "customer_id": "C049",
+    "store_id": "S012",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-11-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0232",
+    "customer_id": "C049",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-01-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0233",
+    "customer_id": "C049",
+    "store_id": "S017",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-12-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0234",
+    "customer_id": "C050",
+    "store_id": "S013",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-04-15",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0235",
+    "customer_id": "C050",
+    "store_id": "S010",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-05-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0236",
+    "customer_id": "C050",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-10-05",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0237",
+    "customer_id": "C050",
+    "store_id": "S003",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0238",
+    "customer_id": "C051",
+    "store_id": "S001",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0239",
+    "customer_id": "C051",
+    "store_id": "S008",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-14",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0240",
+    "customer_id": "C051",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-09-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0241",
+    "customer_id": "C051",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-02-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0242",
+    "customer_id": "C051",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-06-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0243",
+    "customer_id": "C052",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-09-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0244",
+    "customer_id": "C052",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-09-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0245",
+    "customer_id": "C053",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-06-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0246",
+    "customer_id": "C053",
+    "store_id": "S004",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0247",
+    "customer_id": "C054",
+    "store_id": "S002",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-20",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0248",
+    "customer_id": "C054",
+    "store_id": "S017",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-01-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0249",
+    "customer_id": "C054",
+    "store_id": "S005",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-02-06",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0250",
+    "customer_id": "C054",
+    "store_id": "S003",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0251",
+    "customer_id": "C054",
+    "store_id": "S017",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-12",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0252",
+    "customer_id": "C054",
+    "store_id": "S007",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-11-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0253",
+    "customer_id": "C055",
+    "store_id": "S008",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0254",
+    "customer_id": "C056",
+    "store_id": "S010",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-09-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0255",
+    "customer_id": "C056",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-01-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0256",
+    "customer_id": "C056",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-09-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0257",
+    "customer_id": "C056",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-07-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0258",
+    "customer_id": "C056",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0259",
+    "customer_id": "C056",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0260",
+    "customer_id": "C056",
+    "store_id": "S005",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-12-31",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0261",
+    "customer_id": "C057",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-04-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0262",
+    "customer_id": "C057",
+    "store_id": "S001",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-08-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0263",
+    "customer_id": "C057",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-03-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0264",
+    "customer_id": "C057",
+    "store_id": "S015",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-12-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0265",
+    "customer_id": "C057",
+    "store_id": "S002",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-19",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0266",
+    "customer_id": "C057",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-06-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0267",
+    "customer_id": "C057",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0268",
+    "customer_id": "C057",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-12-31",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0269",
+    "customer_id": "C058",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-08-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0270",
+    "customer_id": "C058",
+    "store_id": "S002",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-08-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0271",
+    "customer_id": "C058",
+    "store_id": "S009",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-27",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0272",
+    "customer_id": "C058",
+    "store_id": "S006",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-12-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0273",
+    "customer_id": "C058",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-05-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0274",
+    "customer_id": "C059",
+    "store_id": "S020",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-05-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0275",
+    "customer_id": "C059",
+    "store_id": "S005",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-11-28",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0276",
+    "customer_id": "C059",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0277",
+    "customer_id": "C059",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-06-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0278",
+    "customer_id": "C060",
+    "store_id": "S010",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-01-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0279",
+    "customer_id": "C060",
+    "store_id": "S011",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-11-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0280",
+    "customer_id": "C060",
+    "store_id": "S001",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-12-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0281",
+    "customer_id": "C060",
+    "store_id": "S004",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0282",
+    "customer_id": "C060",
+    "store_id": "S019",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-03-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0283",
+    "customer_id": "C060",
+    "store_id": "S011",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-17",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0284",
+    "customer_id": "C060",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-12-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0285",
+    "customer_id": "C061",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-07-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0286",
+    "customer_id": "C061",
+    "store_id": "S010",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-02-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0287",
+    "customer_id": "C061",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-06-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0288",
+    "customer_id": "C061",
+    "store_id": "S016",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-07-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0289",
+    "customer_id": "C061",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-31",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0290",
+    "customer_id": "C061",
+    "store_id": "S003",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-02-28",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0291",
+    "customer_id": "C061",
+    "store_id": "S003",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-02-05",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0292",
+    "customer_id": "C062",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-11-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0293",
+    "customer_id": "C062",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0294",
+    "customer_id": "C062",
+    "store_id": "S005",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0295",
+    "customer_id": "C062",
+    "store_id": "S010",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-02-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0296",
+    "customer_id": "C063",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-11-28",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0297",
+    "customer_id": "C063",
+    "store_id": "S012",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-11-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0298",
+    "customer_id": "C063",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-11-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0299",
+    "customer_id": "C063",
+    "store_id": "S007",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-06-12",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0300",
+    "customer_id": "C063",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-01-30",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0301",
+    "customer_id": "C064",
+    "store_id": "S002",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-10-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0302",
+    "customer_id": "C064",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0303",
+    "customer_id": "C064",
+    "store_id": "S013",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0304",
+    "customer_id": "C064",
+    "store_id": "S009",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0305",
+    "customer_id": "C064",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-08-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0306",
+    "customer_id": "C064",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-04-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0307",
+    "customer_id": "C064",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-08-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0308",
+    "customer_id": "C064",
+    "store_id": "S009",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-06-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0309",
+    "customer_id": "C065",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-09-23",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0310",
+    "customer_id": "C065",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-06-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0311",
+    "customer_id": "C065",
+    "store_id": "S012",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-11-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0312",
+    "customer_id": "C066",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-03-14",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0313",
+    "customer_id": "C067",
+    "store_id": "S005",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-08-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0314",
+    "customer_id": "C067",
+    "store_id": "S011",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-10-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0315",
+    "customer_id": "C067",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-03-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0316",
+    "customer_id": "C068",
+    "store_id": "S011",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-11-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0317",
+    "customer_id": "C069",
+    "store_id": "S012",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-01-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0318",
+    "customer_id": "C069",
+    "store_id": "S005",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-16",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0319",
+    "customer_id": "C069",
+    "store_id": "S008",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-01-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0320",
+    "customer_id": "C069",
+    "store_id": "S004",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-04-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0321",
+    "customer_id": "C070",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-09",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0322",
+    "customer_id": "C071",
+    "store_id": "S016",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-09-27",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0323",
+    "customer_id": "C071",
+    "store_id": "S011",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-11-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0324",
+    "customer_id": "C072",
+    "store_id": "S003",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0325",
+    "customer_id": "C072",
+    "store_id": "S002",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-02-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0326",
+    "customer_id": "C072",
+    "store_id": "S002",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-11-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0327",
+    "customer_id": "C073",
+    "store_id": "S012",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0328",
+    "customer_id": "C073",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-06-13",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0329",
+    "customer_id": "C074",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-01-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0330",
+    "customer_id": "C074",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-01-13",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0331",
+    "customer_id": "C074",
+    "store_id": "S012",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-07-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0332",
+    "customer_id": "C074",
+    "store_id": "S011",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0333",
+    "customer_id": "C074",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-08-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0334",
+    "customer_id": "C074",
+    "store_id": "S019",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-05-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0335",
+    "customer_id": "C074",
+    "store_id": "S002",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0336",
+    "customer_id": "C074",
+    "store_id": "S008",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0337",
+    "customer_id": "C075",
+    "store_id": "S010",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0338",
+    "customer_id": "C075",
+    "store_id": "S016",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-02-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0339",
+    "customer_id": "C075",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-02-07",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0340",
+    "customer_id": "C075",
+    "store_id": "S014",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-11-19",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0341",
+    "customer_id": "C075",
+    "store_id": "S019",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-01",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0342",
+    "customer_id": "C075",
+    "store_id": "S013",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-08",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0343",
+    "customer_id": "C076",
+    "store_id": "S007",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-25",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0344",
+    "customer_id": "C076",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-08-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0345",
+    "customer_id": "C076",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-02-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0346",
+    "customer_id": "C076",
+    "store_id": "S009",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-12-08",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0347",
+    "customer_id": "C077",
+    "store_id": "S020",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-10-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0348",
+    "customer_id": "C077",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-09-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0349",
+    "customer_id": "C078",
+    "store_id": "S019",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-07-21",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0350",
+    "customer_id": "C078",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-05-03",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0351",
+    "customer_id": "C078",
+    "store_id": "S001",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-06-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0352",
+    "customer_id": "C078",
+    "store_id": "S020",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-10-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0353",
+    "customer_id": "C078",
+    "store_id": "S017",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-06-13",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0354",
+    "customer_id": "C078",
+    "store_id": "S012",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0355",
+    "customer_id": "C079",
+    "store_id": "S011",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-04-27",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0356",
+    "customer_id": "C080",
+    "store_id": "S010",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-03-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0357",
+    "customer_id": "C081",
+    "store_id": "S007",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-03-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0358",
+    "customer_id": "C081",
+    "store_id": "S003",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-12-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0359",
+    "customer_id": "C082",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0360",
+    "customer_id": "C083",
+    "store_id": "S014",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-11-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0361",
+    "customer_id": "C083",
+    "store_id": "S020",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-08-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0362",
+    "customer_id": "C083",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0363",
+    "customer_id": "C083",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-08-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0364",
+    "customer_id": "C083",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-01-12",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0365",
+    "customer_id": "C083",
+    "store_id": "S007",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-06-08",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0366",
+    "customer_id": "C083",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-08-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0367",
+    "customer_id": "C084",
+    "store_id": "S010",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-07-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0368",
+    "customer_id": "C084",
+    "store_id": "S011",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0369",
+    "customer_id": "C085",
+    "store_id": "S001",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-08-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0370",
+    "customer_id": "C085",
+    "store_id": "S012",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-04-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0371",
+    "customer_id": "C085",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-10-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0372",
+    "customer_id": "C086",
+    "store_id": "S017",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0373",
+    "customer_id": "C087",
+    "store_id": "S008",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-10-25",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0374",
+    "customer_id": "C087",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-09-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0375",
+    "customer_id": "C087",
+    "store_id": "S012",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-05-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0376",
+    "customer_id": "C087",
+    "store_id": "S002",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-01-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0377",
+    "customer_id": "C087",
+    "store_id": "S019",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-01-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0378",
+    "customer_id": "C087",
+    "store_id": "S012",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0379",
+    "customer_id": "C087",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-05-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0380",
+    "customer_id": "C088",
+    "store_id": "S016",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-10-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0381",
+    "customer_id": "C088",
+    "store_id": "S002",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-07-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0382",
+    "customer_id": "C088",
+    "store_id": "S016",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-02-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0383",
+    "customer_id": "C088",
+    "store_id": "S008",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-04-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0384",
+    "customer_id": "C088",
+    "store_id": "S005",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0385",
+    "customer_id": "C088",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0386",
+    "customer_id": "C088",
+    "store_id": "S016",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-03-27",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0387",
+    "customer_id": "C088",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-06-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0388",
+    "customer_id": "C089",
+    "store_id": "S014",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-03-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0389",
+    "customer_id": "C089",
+    "store_id": "S006",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0390",
+    "customer_id": "C089",
+    "store_id": "S008",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0391",
+    "customer_id": "C089",
+    "store_id": "S011",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0392",
+    "customer_id": "C089",
+    "store_id": "S001",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-27",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0393",
+    "customer_id": "C089",
+    "store_id": "S020",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-09-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0394",
+    "customer_id": "C090",
+    "store_id": "S015",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-11-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0395",
+    "customer_id": "C090",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0396",
+    "customer_id": "C090",
+    "store_id": "S018",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-07-26",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0397",
+    "customer_id": "C090",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-03-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0398",
+    "customer_id": "C090",
+    "store_id": "S011",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-08-23",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0399",
+    "customer_id": "C090",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-08-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0400",
+    "customer_id": "C090",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-02-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0401",
+    "customer_id": "C090",
+    "store_id": "S007",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0402",
+    "customer_id": "C091",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-09-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0403",
+    "customer_id": "C091",
+    "store_id": "S012",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-08-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0404",
+    "customer_id": "C091",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0405",
+    "customer_id": "C091",
+    "store_id": "S017",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0406",
+    "customer_id": "C092",
+    "store_id": "S019",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-09-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0407",
+    "customer_id": "C092",
+    "store_id": "S020",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0408",
+    "customer_id": "C092",
+    "store_id": "S015",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0409",
+    "customer_id": "C092",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-07-20",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0410",
+    "customer_id": "C092",
+    "store_id": "S006",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-10-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0411",
+    "customer_id": "C092",
+    "store_id": "S002",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-05-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0412",
+    "customer_id": "C092",
+    "store_id": "S009",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-07-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0413",
+    "customer_id": "C093",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-06-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0414",
+    "customer_id": "C093",
+    "store_id": "S006",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-09-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0415",
+    "customer_id": "C093",
+    "store_id": "S020",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0416",
+    "customer_id": "C094",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-11-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0417",
+    "customer_id": "C094",
+    "store_id": "S004",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0418",
+    "customer_id": "C094",
+    "store_id": "S013",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-10-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0419",
+    "customer_id": "C095",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-07-15",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0420",
+    "customer_id": "C095",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0421",
+    "customer_id": "C095",
+    "store_id": "S017",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-04-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0422",
+    "customer_id": "C095",
+    "store_id": "S001",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-02-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0423",
+    "customer_id": "C095",
+    "store_id": "S014",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-09-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0424",
+    "customer_id": "C095",
+    "store_id": "S003",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-04-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0425",
+    "customer_id": "C095",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-01-23",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0426",
+    "customer_id": "C095",
+    "store_id": "S015",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-06-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0427",
+    "customer_id": "C096",
+    "store_id": "S014",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0428",
+    "customer_id": "C096",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0429",
+    "customer_id": "C096",
+    "store_id": "S008",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-04-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0430",
+    "customer_id": "C096",
+    "store_id": "S009",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-23",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0431",
+    "customer_id": "C096",
+    "store_id": "S011",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-10-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0432",
+    "customer_id": "C096",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0433",
+    "customer_id": "C097",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0434",
+    "customer_id": "C097",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-11",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0435",
+    "customer_id": "C098",
+    "store_id": "S015",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-05",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0436",
+    "customer_id": "C098",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-01-20",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0437",
+    "customer_id": "C098",
+    "store_id": "S020",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-10-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0438",
+    "customer_id": "C098",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-05-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0439",
+    "customer_id": "C098",
+    "store_id": "S017",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-09-20",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0440",
+    "customer_id": "C098",
+    "store_id": "S020",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-08-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0441",
+    "customer_id": "C099",
+    "store_id": "S017",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-11-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0442",
+    "customer_id": "C099",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-07-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0443",
+    "customer_id": "C099",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0444",
+    "customer_id": "C099",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-06-30",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0445",
+    "customer_id": "C099",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-09-18",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0446",
+    "customer_id": "C100",
+    "store_id": "S010",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-08-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0447",
+    "customer_id": "C100",
+    "store_id": "S004",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-06-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0448",
+    "customer_id": "C100",
+    "store_id": "S009",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-02-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0449",
+    "customer_id": "C101",
+    "store_id": "S003",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-12-09",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0450",
+    "customer_id": "C101",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-11-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0451",
+    "customer_id": "C101",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-08-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0452",
+    "customer_id": "C101",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-02-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0453",
+    "customer_id": "C101",
+    "store_id": "S019",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-06-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0454",
+    "customer_id": "C101",
+    "store_id": "S011",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0455",
+    "customer_id": "C101",
+    "store_id": "S006",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-03-28",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0456",
+    "customer_id": "C102",
+    "store_id": "S020",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-22",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0457",
+    "customer_id": "C102",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-12-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0458",
+    "customer_id": "C102",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-07-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0459",
+    "customer_id": "C102",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-12-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0460",
+    "customer_id": "C103",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-01-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0461",
+    "customer_id": "C104",
+    "store_id": "S008",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-05-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0462",
+    "customer_id": "C105",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-01-31",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0463",
+    "customer_id": "C105",
+    "store_id": "S008",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-11-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0464",
+    "customer_id": "C105",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0465",
+    "customer_id": "C105",
+    "store_id": "S011",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-23",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0466",
+    "customer_id": "C105",
+    "store_id": "S005",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-09-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0467",
+    "customer_id": "C106",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-04-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0468",
+    "customer_id": "C106",
+    "store_id": "S007",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-01-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0469",
+    "customer_id": "C106",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-05-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0470",
+    "customer_id": "C106",
+    "store_id": "S011",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-08-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0471",
+    "customer_id": "C106",
+    "store_id": "S017",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0472",
+    "customer_id": "C106",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-10-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0473",
+    "customer_id": "C106",
+    "store_id": "S013",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-01-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0474",
+    "customer_id": "C106",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-10-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0475",
+    "customer_id": "C107",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-12-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0476",
+    "customer_id": "C107",
+    "store_id": "S011",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-03",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0477",
+    "customer_id": "C108",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0478",
+    "customer_id": "C108",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-01-13",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0479",
+    "customer_id": "C108",
+    "store_id": "S015",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-09-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0480",
+    "customer_id": "C108",
+    "store_id": "S012",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-02-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0481",
+    "customer_id": "C108",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-07-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0482",
+    "customer_id": "C109",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-01-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0483",
+    "customer_id": "C109",
+    "store_id": "S018",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0484",
+    "customer_id": "C110",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-12-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0485",
+    "customer_id": "C110",
+    "store_id": "S016",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-12-24",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0486",
+    "customer_id": "C110",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0487",
+    "customer_id": "C110",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0488",
+    "customer_id": "C110",
+    "store_id": "S011",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-10-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0489",
+    "customer_id": "C110",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-06-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0490",
+    "customer_id": "C111",
+    "store_id": "S011",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-05",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0491",
+    "customer_id": "C111",
+    "store_id": "S014",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-11-03",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0492",
+    "customer_id": "C111",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-12-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0493",
+    "customer_id": "C111",
+    "store_id": "S011",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0494",
+    "customer_id": "C112",
+    "store_id": "S002",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-03-30",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0495",
+    "customer_id": "C112",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-05-16",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0496",
+    "customer_id": "C112",
+    "store_id": "S017",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0497",
+    "customer_id": "C112",
+    "store_id": "S007",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-06-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0498",
+    "customer_id": "C112",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0499",
+    "customer_id": "C112",
+    "store_id": "S006",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-12-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0500",
+    "customer_id": "C113",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-29",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0501",
+    "customer_id": "C113",
+    "store_id": "S003",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-11-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0502",
+    "customer_id": "C113",
+    "store_id": "S011",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-01-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0503",
+    "customer_id": "C113",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0504",
+    "customer_id": "C113",
+    "store_id": "S004",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-03-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0505",
+    "customer_id": "C113",
+    "store_id": "S018",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-01-29",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0506",
+    "customer_id": "C113",
+    "store_id": "S019",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-21",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0507",
+    "customer_id": "C114",
+    "store_id": "S015",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-02-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0508",
+    "customer_id": "C114",
+    "store_id": "S020",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-10-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0509",
+    "customer_id": "C115",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-11-07",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0510",
+    "customer_id": "C115",
+    "store_id": "S020",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-07-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0511",
+    "customer_id": "C115",
+    "store_id": "S003",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-06-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0512",
+    "customer_id": "C116",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-08-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0513",
+    "customer_id": "C116",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0514",
+    "customer_id": "C116",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-05-13",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0515",
+    "customer_id": "C116",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-04-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0516",
+    "customer_id": "C116",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0517",
+    "customer_id": "C117",
+    "store_id": "S004",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-12-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0518",
+    "customer_id": "C117",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-09-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0519",
+    "customer_id": "C117",
+    "store_id": "S003",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0520",
+    "customer_id": "C117",
+    "store_id": "S012",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-02-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0521",
+    "customer_id": "C117",
+    "store_id": "S020",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0522",
+    "customer_id": "C117",
+    "store_id": "S005",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-09-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0523",
+    "customer_id": "C118",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-01-14",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0524",
+    "customer_id": "C118",
+    "store_id": "S006",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-12-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0525",
+    "customer_id": "C118",
+    "store_id": "S016",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-09-01",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0526",
+    "customer_id": "C119",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-11-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0527",
+    "customer_id": "C120",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-04-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0528",
+    "customer_id": "C120",
+    "store_id": "S011",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-04-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0529",
+    "customer_id": "C120",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-07-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0530",
+    "customer_id": "C121",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-04-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0531",
+    "customer_id": "C121",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-08-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0532",
+    "customer_id": "C121",
+    "store_id": "S003",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0533",
+    "customer_id": "C121",
+    "store_id": "S011",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0534",
+    "customer_id": "C121",
+    "store_id": "S009",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-03-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0535",
+    "customer_id": "C121",
+    "store_id": "S007",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-03-28",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0536",
+    "customer_id": "C121",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-10-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0537",
+    "customer_id": "C122",
+    "store_id": "S005",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-08-11",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0538",
+    "customer_id": "C122",
+    "store_id": "S016",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-03-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0539",
+    "customer_id": "C122",
+    "store_id": "S013",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-10-24",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0540",
+    "customer_id": "C122",
+    "store_id": "S003",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-10-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0541",
+    "customer_id": "C122",
+    "store_id": "S007",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-04-20",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0542",
+    "customer_id": "C123",
+    "store_id": "S007",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-08-30",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0543",
+    "customer_id": "C124",
+    "store_id": "S018",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-17",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0544",
+    "customer_id": "C124",
+    "store_id": "S011",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-08-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0545",
+    "customer_id": "C124",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-25",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0546",
+    "customer_id": "C124",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0547",
+    "customer_id": "C124",
+    "store_id": "S019",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-04-19",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0548",
+    "customer_id": "C124",
+    "store_id": "S003",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-11-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0549",
+    "customer_id": "C124",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-05-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0550",
+    "customer_id": "C124",
+    "store_id": "S015",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-02-11",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0551",
+    "customer_id": "C125",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-07-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0552",
+    "customer_id": "C126",
+    "store_id": "S016",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-10-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0553",
+    "customer_id": "C126",
+    "store_id": "S020",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-09-18",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0554",
+    "customer_id": "C126",
+    "store_id": "S012",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-08-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0555",
+    "customer_id": "C126",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-10-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0556",
+    "customer_id": "C126",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0557",
+    "customer_id": "C126",
+    "store_id": "S010",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-12-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0558",
+    "customer_id": "C126",
+    "store_id": "S017",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-08-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0559",
+    "customer_id": "C127",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-07-24",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0560",
+    "customer_id": "C127",
+    "store_id": "S007",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-02-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0561",
+    "customer_id": "C127",
+    "store_id": "S007",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-12-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0562",
+    "customer_id": "C127",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0563",
+    "customer_id": "C128",
+    "store_id": "S001",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-09-10",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0564",
+    "customer_id": "C128",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0565",
+    "customer_id": "C128",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0566",
+    "customer_id": "C128",
+    "store_id": "S008",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-01-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0567",
+    "customer_id": "C128",
+    "store_id": "S010",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-08-07",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0568",
+    "customer_id": "C129",
+    "store_id": "S013",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-10-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0569",
+    "customer_id": "C129",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-04-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0570",
+    "customer_id": "C130",
+    "store_id": "S005",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-04-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0571",
+    "customer_id": "C130",
+    "store_id": "S009",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-10-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0572",
+    "customer_id": "C130",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-06-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0573",
+    "customer_id": "C130",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0574",
+    "customer_id": "C131",
+    "store_id": "S003",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-10-23",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0575",
+    "customer_id": "C131",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-05-23",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0576",
+    "customer_id": "C132",
+    "store_id": "S018",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0577",
+    "customer_id": "C132",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-12-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0578",
+    "customer_id": "C132",
+    "store_id": "S019",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0579",
+    "customer_id": "C132",
+    "store_id": "S010",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-10-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0580",
+    "customer_id": "C132",
+    "store_id": "S006",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-11-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0581",
+    "customer_id": "C132",
+    "store_id": "S012",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-06-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0582",
+    "customer_id": "C132",
+    "store_id": "S018",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-12-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0583",
+    "customer_id": "C133",
+    "store_id": "S016",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-07-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0584",
+    "customer_id": "C133",
+    "store_id": "S013",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-04-01",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0585",
+    "customer_id": "C134",
+    "store_id": "S001",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0586",
+    "customer_id": "C134",
+    "store_id": "S007",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0587",
+    "customer_id": "C134",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0588",
+    "customer_id": "C134",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-09-04",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0589",
+    "customer_id": "C135",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-03-09",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0590",
+    "customer_id": "C135",
+    "store_id": "S007",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-24",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0591",
+    "customer_id": "C135",
+    "store_id": "S009",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-10-13",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0592",
+    "customer_id": "C135",
+    "store_id": "S001",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-05-19",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0593",
+    "customer_id": "C135",
+    "store_id": "S019",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-09-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0594",
+    "customer_id": "C136",
+    "store_id": "S011",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-19",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0595",
+    "customer_id": "C136",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-10-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0596",
+    "customer_id": "C136",
+    "store_id": "S006",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-06-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0597",
+    "customer_id": "C137",
+    "store_id": "S017",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0598",
+    "customer_id": "C137",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-04-30",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0599",
+    "customer_id": "C137",
+    "store_id": "S012",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-09-03",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0600",
+    "customer_id": "C138",
+    "store_id": "S010",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-03-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0601",
+    "customer_id": "C138",
+    "store_id": "S007",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-11-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0602",
+    "customer_id": "C138",
+    "store_id": "S004",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-07-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0603",
+    "customer_id": "C138",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-12-23",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0604",
+    "customer_id": "C139",
+    "store_id": "S017",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-16",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0605",
+    "customer_id": "C140",
+    "store_id": "S017",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-08-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0606",
+    "customer_id": "C140",
+    "store_id": "S012",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-06-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0607",
+    "customer_id": "C140",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-05-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0608",
+    "customer_id": "C140",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-04-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0609",
+    "customer_id": "C141",
+    "store_id": "S012",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-11-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0610",
+    "customer_id": "C141",
+    "store_id": "S013",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-22",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0611",
+    "customer_id": "C141",
+    "store_id": "S011",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-02-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0612",
+    "customer_id": "C141",
+    "store_id": "S016",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0613",
+    "customer_id": "C141",
+    "store_id": "S015",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-05-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0614",
+    "customer_id": "C141",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-11-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0615",
+    "customer_id": "C141",
+    "store_id": "S015",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-05-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0616",
+    "customer_id": "C141",
+    "store_id": "S013",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-01-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0617",
+    "customer_id": "C142",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-04-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0618",
+    "customer_id": "C142",
+    "store_id": "S009",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-01-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0619",
+    "customer_id": "C142",
+    "store_id": "S012",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0620",
+    "customer_id": "C143",
+    "store_id": "S002",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-10-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0621",
+    "customer_id": "C143",
+    "store_id": "S011",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0622",
+    "customer_id": "C143",
+    "store_id": "S019",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-10-01",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0623",
+    "customer_id": "C143",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-01-22",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0624",
+    "customer_id": "C143",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-03-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0625",
+    "customer_id": "C143",
+    "store_id": "S010",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0626",
+    "customer_id": "C144",
+    "store_id": "S014",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-03-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0627",
+    "customer_id": "C144",
+    "store_id": "S013",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-04-09",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0628",
+    "customer_id": "C144",
+    "store_id": "S018",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-03-20",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0629",
+    "customer_id": "C144",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-03-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0630",
+    "customer_id": "C144",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-09-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0631",
+    "customer_id": "C144",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-11-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0632",
+    "customer_id": "C144",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-10-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0633",
+    "customer_id": "C144",
+    "store_id": "S003",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0634",
+    "customer_id": "C145",
+    "store_id": "S004",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-05-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0635",
+    "customer_id": "C145",
+    "store_id": "S011",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-08-30",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0636",
+    "customer_id": "C145",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-06-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0637",
+    "customer_id": "C145",
+    "store_id": "S009",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-01-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0638",
+    "customer_id": "C146",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-12-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0639",
+    "customer_id": "C146",
+    "store_id": "S001",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-09-19",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0640",
+    "customer_id": "C146",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-10-21",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0641",
+    "customer_id": "C146",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0642",
+    "customer_id": "C146",
+    "store_id": "S001",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-07-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0643",
+    "customer_id": "C147",
+    "store_id": "S006",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-10-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0644",
+    "customer_id": "C147",
+    "store_id": "S015",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-17",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0645",
+    "customer_id": "C148",
+    "store_id": "S014",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-01-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0646",
+    "customer_id": "C148",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0647",
+    "customer_id": "C149",
+    "store_id": "S008",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-09-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0648",
+    "customer_id": "C149",
+    "store_id": "S020",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-17",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0649",
+    "customer_id": "C150",
+    "store_id": "S010",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-04-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0650",
+    "customer_id": "C151",
+    "store_id": "S016",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-12-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0651",
+    "customer_id": "C152",
+    "store_id": "S002",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-27",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0652",
+    "customer_id": "C153",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-05-16",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0653",
+    "customer_id": "C153",
+    "store_id": "S011",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-09-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0654",
+    "customer_id": "C153",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-10-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0655",
+    "customer_id": "C153",
+    "store_id": "S006",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-18",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0656",
+    "customer_id": "C153",
+    "store_id": "S007",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-07-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0657",
+    "customer_id": "C153",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-05-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0658",
+    "customer_id": "C153",
+    "store_id": "S018",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-04-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0659",
+    "customer_id": "C154",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-07",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0660",
+    "customer_id": "C154",
+    "store_id": "S004",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-11-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0661",
+    "customer_id": "C154",
+    "store_id": "S019",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-06-07",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0662",
+    "customer_id": "C154",
+    "store_id": "S016",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-10-03",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0663",
+    "customer_id": "C154",
+    "store_id": "S010",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-03-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0664",
+    "customer_id": "C155",
+    "store_id": "S006",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-10-19",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0665",
+    "customer_id": "C155",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0666",
+    "customer_id": "C155",
+    "store_id": "S016",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-05-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0667",
+    "customer_id": "C155",
+    "store_id": "S020",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0668",
+    "customer_id": "C156",
+    "store_id": "S008",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-23",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0669",
+    "customer_id": "C156",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-02-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0670",
+    "customer_id": "C156",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0671",
+    "customer_id": "C156",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-02-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0672",
+    "customer_id": "C156",
+    "store_id": "S011",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0673",
+    "customer_id": "C156",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-01-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0674",
+    "customer_id": "C156",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-09-23",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0675",
+    "customer_id": "C156",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-01-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0676",
+    "customer_id": "C157",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0677",
+    "customer_id": "C157",
+    "store_id": "S016",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-04-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0678",
+    "customer_id": "C157",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-09-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0679",
+    "customer_id": "C157",
+    "store_id": "S019",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-10-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0680",
+    "customer_id": "C158",
+    "store_id": "S010",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-03-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0681",
+    "customer_id": "C158",
+    "store_id": "S005",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-02-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0682",
+    "customer_id": "C158",
+    "store_id": "S003",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0683",
+    "customer_id": "C159",
+    "store_id": "S010",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-02-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0684",
+    "customer_id": "C159",
+    "store_id": "S012",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-05-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0685",
+    "customer_id": "C159",
+    "store_id": "S014",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0686",
+    "customer_id": "C159",
+    "store_id": "S015",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-04-24",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0687",
+    "customer_id": "C159",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-06-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0688",
+    "customer_id": "C159",
+    "store_id": "S006",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-06-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0689",
+    "customer_id": "C159",
+    "store_id": "S007",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-07",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0690",
+    "customer_id": "C159",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-02-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0691",
+    "customer_id": "C160",
+    "store_id": "S014",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-04-14",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0692",
+    "customer_id": "C160",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-02-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0693",
+    "customer_id": "C160",
+    "store_id": "S019",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-12-31",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0694",
+    "customer_id": "C161",
+    "store_id": "S013",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-07-11",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0695",
+    "customer_id": "C161",
+    "store_id": "S018",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-05-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0696",
+    "customer_id": "C161",
+    "store_id": "S018",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-11-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0697",
+    "customer_id": "C162",
+    "store_id": "S004",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0698",
+    "customer_id": "C163",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-04-18",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0699",
+    "customer_id": "C163",
+    "store_id": "S005",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-03-25",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0700",
+    "customer_id": "C163",
+    "store_id": "S005",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-03-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0701",
+    "customer_id": "C164",
+    "store_id": "S015",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-03-02",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0702",
+    "customer_id": "C164",
+    "store_id": "S015",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-09",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0703",
+    "customer_id": "C164",
+    "store_id": "S004",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-10-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0704",
+    "customer_id": "C164",
+    "store_id": "S004",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-01-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0705",
+    "customer_id": "C164",
+    "store_id": "S002",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-08-09",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0706",
+    "customer_id": "C164",
+    "store_id": "S018",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-02-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0707",
+    "customer_id": "C164",
+    "store_id": "S005",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-04-05",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0708",
+    "customer_id": "C165",
+    "store_id": "S018",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-29",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0709",
+    "customer_id": "C165",
+    "store_id": "S018",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-09-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0710",
+    "customer_id": "C165",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-12-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0711",
+    "customer_id": "C165",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0712",
+    "customer_id": "C165",
+    "store_id": "S010",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-04-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0713",
+    "customer_id": "C165",
+    "store_id": "S020",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-12-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0714",
+    "customer_id": "C166",
+    "store_id": "S011",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0715",
+    "customer_id": "C166",
+    "store_id": "S016",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-01-30",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0716",
+    "customer_id": "C167",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-05-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0717",
+    "customer_id": "C167",
+    "store_id": "S001",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-08-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0718",
+    "customer_id": "C167",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-03-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0719",
+    "customer_id": "C167",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-06-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0720",
+    "customer_id": "C167",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-11-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0721",
+    "customer_id": "C167",
+    "store_id": "S010",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0722",
+    "customer_id": "C168",
+    "store_id": "S020",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-22",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0723",
+    "customer_id": "C168",
+    "store_id": "S011",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-09-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0724",
+    "customer_id": "C168",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-12-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0725",
+    "customer_id": "C168",
+    "store_id": "S012",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-01-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0726",
+    "customer_id": "C169",
+    "store_id": "S001",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-10-15",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0727",
+    "customer_id": "C169",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0728",
+    "customer_id": "C169",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-03-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0729",
+    "customer_id": "C169",
+    "store_id": "S018",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-03-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0730",
+    "customer_id": "C169",
+    "store_id": "S014",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-06-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0731",
+    "customer_id": "C169",
+    "store_id": "S014",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-01-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0732",
+    "customer_id": "C169",
+    "store_id": "S008",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-11-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0733",
+    "customer_id": "C169",
+    "store_id": "S001",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0734",
+    "customer_id": "C170",
+    "store_id": "S003",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-04-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0735",
+    "customer_id": "C170",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-03-28",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0736",
+    "customer_id": "C170",
+    "store_id": "S003",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-26",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0737",
+    "customer_id": "C170",
+    "store_id": "S013",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-02-25",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0738",
+    "customer_id": "C171",
+    "store_id": "S015",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-09-26",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0739",
+    "customer_id": "C171",
+    "store_id": "S015",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-07-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0740",
+    "customer_id": "C171",
+    "store_id": "S020",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-07-18",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0741",
+    "customer_id": "C171",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-11-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0742",
+    "customer_id": "C171",
+    "store_id": "S020",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-01-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0743",
+    "customer_id": "C171",
+    "store_id": "S007",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-12-16",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0744",
+    "customer_id": "C171",
+    "store_id": "S019",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-09-22",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0745",
+    "customer_id": "C172",
+    "store_id": "S008",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-12-10",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0746",
+    "customer_id": "C172",
+    "store_id": "S016",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-01-20",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0747",
+    "customer_id": "C172",
+    "store_id": "S001",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0748",
+    "customer_id": "C172",
+    "store_id": "S015",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-01-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0749",
+    "customer_id": "C172",
+    "store_id": "S007",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-09-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0750",
+    "customer_id": "C172",
+    "store_id": "S007",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-09-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0751",
+    "customer_id": "C172",
+    "store_id": "S013",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-08-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0752",
+    "customer_id": "C172",
+    "store_id": "S003",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0753",
+    "customer_id": "C173",
+    "store_id": "S020",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-09-08",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0754",
+    "customer_id": "C173",
+    "store_id": "S018",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-12-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0755",
+    "customer_id": "C173",
+    "store_id": "S017",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-08-03",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0756",
+    "customer_id": "C173",
+    "store_id": "S006",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-10-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0757",
+    "customer_id": "C173",
+    "store_id": "S009",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-08-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0758",
+    "customer_id": "C173",
+    "store_id": "S007",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-02-10",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0759",
+    "customer_id": "C174",
+    "store_id": "S009",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-03-28",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0760",
+    "customer_id": "C174",
+    "store_id": "S017",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-04-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0761",
+    "customer_id": "C174",
+    "store_id": "S006",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-10-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0762",
+    "customer_id": "C174",
+    "store_id": "S010",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-10-21",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0763",
+    "customer_id": "C174",
+    "store_id": "S004",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-02-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0764",
+    "customer_id": "C174",
+    "store_id": "S010",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-02-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0765",
+    "customer_id": "C175",
+    "store_id": "S007",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-08-24",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0766",
+    "customer_id": "C175",
+    "store_id": "S015",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-01-31",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0767",
+    "customer_id": "C175",
+    "store_id": "S011",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-12-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0768",
+    "customer_id": "C175",
+    "store_id": "S005",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-12-05",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0769",
+    "customer_id": "C176",
+    "store_id": "S004",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-07",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0770",
+    "customer_id": "C176",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-01-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0771",
+    "customer_id": "C176",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-12-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0772",
+    "customer_id": "C176",
+    "store_id": "S007",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-11-14",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0773",
+    "customer_id": "C176",
+    "store_id": "S007",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-04-01",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0774",
+    "customer_id": "C176",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-17",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0775",
+    "customer_id": "C176",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-06-29",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0776",
+    "customer_id": "C176",
+    "store_id": "S019",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-02-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0777",
+    "customer_id": "C177",
+    "store_id": "S016",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-07-20",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0778",
+    "customer_id": "C177",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-11-30",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0779",
+    "customer_id": "C177",
+    "store_id": "S015",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-02-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0780",
+    "customer_id": "C177",
+    "store_id": "S004",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-04-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0781",
+    "customer_id": "C178",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-09-13",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0782",
+    "customer_id": "C178",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-06-22",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0783",
+    "customer_id": "C178",
+    "store_id": "S009",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-07-02",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0784",
+    "customer_id": "C178",
+    "store_id": "S002",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-11-06",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0785",
+    "customer_id": "C178",
+    "store_id": "S015",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-02-19",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0786",
+    "customer_id": "C179",
+    "store_id": "S001",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-07-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0787",
+    "customer_id": "C179",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-06-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0788",
+    "customer_id": "C179",
+    "store_id": "S018",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0789",
+    "customer_id": "C179",
+    "store_id": "S001",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-01-13",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0790",
+    "customer_id": "C179",
+    "store_id": "S007",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-09-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0791",
+    "customer_id": "C179",
+    "store_id": "S013",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-10-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0792",
+    "customer_id": "C179",
+    "store_id": "S013",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-08-27",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0793",
+    "customer_id": "C180",
+    "store_id": "S002",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-31",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0794",
+    "customer_id": "C180",
+    "store_id": "S008",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-03-30",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0795",
+    "customer_id": "C181",
+    "store_id": "S008",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-07-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0796",
+    "customer_id": "C182",
+    "store_id": "S003",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-07-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0797",
+    "customer_id": "C183",
+    "store_id": "S005",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0798",
+    "customer_id": "C183",
+    "store_id": "S015",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-07-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0799",
+    "customer_id": "C183",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-10-12",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0800",
+    "customer_id": "C183",
+    "store_id": "S013",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-27",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0801",
+    "customer_id": "C184",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-06-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0802",
+    "customer_id": "C184",
+    "store_id": "S003",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-04-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0803",
+    "customer_id": "C184",
+    "store_id": "S017",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-03-01",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0804",
+    "customer_id": "C184",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-06-16",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0805",
+    "customer_id": "C184",
+    "store_id": "S017",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-01-13",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0806",
+    "customer_id": "C184",
+    "store_id": "S014",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-02-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0807",
+    "customer_id": "C184",
+    "store_id": "S020",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-31",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0808",
+    "customer_id": "C185",
+    "store_id": "S013",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-03-24",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0809",
+    "customer_id": "C185",
+    "store_id": "S004",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-12-19",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0810",
+    "customer_id": "C186",
+    "store_id": "S001",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-01-02",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0811",
+    "customer_id": "C186",
+    "store_id": "S017",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0812",
+    "customer_id": "C186",
+    "store_id": "S007",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-04-23",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0813",
+    "customer_id": "C186",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-10-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0814",
+    "customer_id": "C186",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-05-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0815",
+    "customer_id": "C187",
+    "store_id": "S001",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-01-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0816",
+    "customer_id": "C187",
+    "store_id": "S020",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-29",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0817",
+    "customer_id": "C188",
+    "store_id": "S011",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0818",
+    "customer_id": "C188",
+    "store_id": "S015",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0819",
+    "customer_id": "C188",
+    "store_id": "S015",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-02-14",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0820",
+    "customer_id": "C188",
+    "store_id": "S017",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-05-31",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0821",
+    "customer_id": "C188",
+    "store_id": "S003",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-07-15",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0822",
+    "customer_id": "C188",
+    "store_id": "S003",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-01-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0823",
+    "customer_id": "C189",
+    "store_id": "S016",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-07-01",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0824",
+    "customer_id": "C189",
+    "store_id": "S018",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-08-17",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0825",
+    "customer_id": "C189",
+    "store_id": "S019",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-04-29",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0826",
+    "customer_id": "C189",
+    "store_id": "S014",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-11-26",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0827",
+    "customer_id": "C189",
+    "store_id": "S013",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-04-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0828",
+    "customer_id": "C190",
+    "store_id": "S005",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-11-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0829",
+    "customer_id": "C190",
+    "store_id": "S002",
+    "delivery_partner_id": "DP06",
+    "order_date": "2023-08-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0830",
+    "customer_id": "C190",
+    "store_id": "S016",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0831",
+    "customer_id": "C190",
+    "store_id": "S014",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-02-05",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0832",
+    "customer_id": "C190",
+    "store_id": "S005",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-08-17",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0833",
+    "customer_id": "C191",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-12-13",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0834",
+    "customer_id": "C191",
+    "store_id": "S005",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-03-13",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0835",
+    "customer_id": "C191",
+    "store_id": "S006",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-06-11",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0836",
+    "customer_id": "C191",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-11-06",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0837",
+    "customer_id": "C191",
+    "store_id": "S012",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-03-26",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0838",
+    "customer_id": "C191",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2024-08-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0839",
+    "customer_id": "C191",
+    "store_id": "S010",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-11-30",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0840",
+    "customer_id": "C191",
+    "store_id": "S013",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-07-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0841",
+    "customer_id": "C192",
+    "store_id": "S018",
+    "delivery_partner_id": "DP08",
+    "order_date": "2023-05-06",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0842",
+    "customer_id": "C193",
+    "store_id": "S003",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-02-05",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0843",
+    "customer_id": "C193",
+    "store_id": "S012",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-11-04",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0844",
+    "customer_id": "C193",
+    "store_id": "S002",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-10-28",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0845",
+    "customer_id": "C194",
+    "store_id": "S002",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-08-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0846",
+    "customer_id": "C194",
+    "store_id": "S009",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-08",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0847",
+    "customer_id": "C194",
+    "store_id": "S009",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-06-17",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0848",
+    "customer_id": "C194",
+    "store_id": "S009",
+    "delivery_partner_id": "DP04",
+    "order_date": "2024-07-31",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0849",
+    "customer_id": "C195",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2024-07-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0850",
+    "customer_id": "C195",
+    "store_id": "S008",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-01-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0851",
+    "customer_id": "C195",
+    "store_id": "S017",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-05-16",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0852",
+    "customer_id": "C195",
+    "store_id": "S019",
+    "delivery_partner_id": "DP05",
+    "order_date": "2024-09-14",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0853",
+    "customer_id": "C195",
+    "store_id": "S011",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-11-25",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0854",
+    "customer_id": "C196",
+    "store_id": "S013",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-02-24",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0855",
+    "customer_id": "C196",
+    "store_id": "S015",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-05-29",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0856",
+    "customer_id": "C196",
+    "store_id": "S010",
+    "delivery_partner_id": "DP07",
+    "order_date": "2023-04-03",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0857",
+    "customer_id": "C197",
+    "store_id": "S006",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-10-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0858",
+    "customer_id": "C197",
+    "store_id": "S001",
+    "delivery_partner_id": "DP10",
+    "order_date": "2023-01-08",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0859",
+    "customer_id": "C198",
+    "store_id": "S006",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-05-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0860",
+    "customer_id": "C198",
+    "store_id": "S018",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-05-09",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0861",
+    "customer_id": "C198",
+    "store_id": "S017",
+    "delivery_partner_id": "DP01",
+    "order_date": "2024-09-24",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD0862",
+    "customer_id": "C198",
+    "store_id": "S004",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-07-10",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0863",
+    "customer_id": "C199",
+    "store_id": "S004",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-11-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0864",
+    "customer_id": "C199",
+    "store_id": "S014",
+    "delivery_partner_id": "DP03",
+    "order_date": "2023-10-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0865",
+    "customer_id": "C199",
+    "store_id": "S006",
+    "delivery_partner_id": "DP03",
+    "order_date": "2024-03-20",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0866",
+    "customer_id": "C199",
+    "store_id": "S004",
+    "delivery_partner_id": "DP04",
+    "order_date": "2023-05-17",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0867",
+    "customer_id": "C199",
+    "store_id": "S004",
+    "delivery_partner_id": "DP07",
+    "order_date": "2024-05-22",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0868",
+    "customer_id": "C199",
+    "store_id": "S005",
+    "delivery_partner_id": "DP02",
+    "order_date": "2023-01-22",
+    "status": "pending"
+  },
+  {
+    "order_id": "ORD0869",
+    "customer_id": "C199",
+    "store_id": "S002",
+    "delivery_partner_id": "DP06",
+    "order_date": "2024-09-03",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0870",
+    "customer_id": "C200",
+    "store_id": "S010",
+    "delivery_partner_id": "DP08",
+    "order_date": "2024-03-15",
+    "status": "delivered"
+  },
+  {
+    "order_id": "ORD0871",
+    "customer_id": "C200",
+    "store_id": "S009",
+    "delivery_partner_id": "DP02",
+    "order_date": "2024-12-18",
+    "status": "shipped"
+  },
+  {
+    "order_id": "ORD0872",
+    "customer_id": "C200",
+    "store_id": "S004",
+    "delivery_partner_id": "DP09",
+    "order_date": "2023-07-13",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0873",
+    "customer_id": "C200",
+    "store_id": "S014",
+    "delivery_partner_id": "DP01",
+    "order_date": "2023-04-04",
+    "status": "processing"
+  },
+  {
+    "order_id": "ORD0874",
+    "customer_id": "C200",
+    "store_id": "S017",
+    "delivery_partner_id": "DP05",
+    "order_date": "2023-08-25",
+    "status": "processing"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "partner_id": "DP01",
+    "name": "FastDeliver Co"
+  },
+  {
+    "partner_id": "DP02",
+    "name": "QuickShip Express"
+  },
+  {
+    "partner_id": "DP03",
+    "name": "SwiftRoute"
+  },
+  {
+    "partner_id": "DP04",
+    "name": "RapidDrop"
+  },
+  {
+    "partner_id": "DP05",
+    "name": "EcoDeliver"
+  },
+  {
+    "partner_id": "DP06",
+    "name": "CityRunner"
+  },
+  {
+    "partner_id": "DP07",
+    "name": "NextDoor Delivery"
+  },
+  {
+    "partner_id": "DP08",
+    "name": "SpeedyPack"
+  },
+  {
+    "partner_id": "DP09",
+    "name": "TrustCourier"
+  },
+  {
+    "partner_id": "DP10",
+    "name": "PrimeShip"
+  }
+]

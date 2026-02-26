@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,price,mrp,discount,rating,quantity
+P001,Dove Cookies 100g,Dove,Grocery,146.92,152.01,3.35,4.6,100g
+P002,Dove Shampoo 200g,Dove,Household,221.52,222.52,0.45,3.8,200g
+P003,Fortune Toothpaste 2L,Fortune,Dairy,325.43,363.69,10.52,4.1,2L
+P004,Dettol Paneer 100g,Dettol,Personal Care,364.2,406.79,10.47,4,100g
+P005,Aashirvaad Salt 250ml,Aashirvaad,Cleaning,63.58,64.52,1.45,4.8,250ml
+P006,Harpic Cookies 100g,Harpic,Personal Care,236.02,240.52,1.87,4.9,100g
+P007,Tata Butter 2kg,Tata,Household,279.02,321.75,13.28,4,2kg
+P008,Surf Excel Juice 100g,Surf Excel,Grocery,123.77,129.39,4.34,3.6,100g
+P009,Surf Excel Biscuits 500ml,Surf Excel,Grocery,207.91,237.64,12.51,3.7,500ml
+P010,Parle Cookies 2kg,Parle,Cleaning,423.95,469.59,9.72,4.4,2kg
+P011,Aashirvaad Atta 1kg,Aashirvaad,Household,232.08,241.88,4.05,4.9,1kg
+P012,Patanjali Juice 1kg,Patanjali,Household,155.42,175.66,11.52,3.6,1kg
+P013,Britannia Handwash 250ml,Britannia,Dairy,143.83,148.52,3.16,4.9,250ml
+P014,Godrej Juice 1kg,Godrej,Beverages,225.18,259.63,13.27,4.5,1kg
+P015,Aashirvaad Toothpaste 500g,Aashirvaad,Personal Care,347.08,377.59,8.08,4.6,500g
+P016,Maggi Toothpaste 250ml,Maggi,Bakery,488.4,498.72,2.07,4.2,250ml
+P017,Nestle Atta 200g,Nestle,Dairy,283.02,321.17,11.88,4.1,200g
+P018,Tata Shampoo 500ml,Tata,Bakery,458.59,498.14,7.94,5,500ml
+P019,Britannia Juice 200g,Britannia,Dairy,394.63,444.7,11.26,4.7,200g
+P020,Parle Handwash 2kg,Parle,Grocery,95.87,95.92,0.05,4.6,2kg
+P021,Patanjali Paneer 2L,Patanjali,Personal Care,91.27,105.75,13.69,4.8,2L
+P022,Colgate Toothpaste 750ml,Colgate,Household,82.68,93.36,11.44,4.3,750ml
+P023,Nestle Shampoo 100g,Nestle,Household,175.08,175.59,0.29,4.9,100g
+P024,Godrej Milk 1kg,Godrej,Personal Care,124.08,135.62,8.51,3.6,1kg
+P025,Patanjali Paneer 200g,Patanjali,Frozen,270.49,275.7,1.89,4.5,200g
+P026,Fortune Toilet Cleaner 2kg,Fortune,Snacks,410.91,438.77,6.35,3.8,2kg
+P027,Fortune Handwash 2kg,Fortune,Cleaning,449.15,497.67,9.75,4.2,2kg
+P028,Fortune Toothpaste 200g,Fortune,Frozen,121.37,127.85,5.07,4.4,200g
+P029,Surf Excel Salt 100g,Surf Excel,Cleaning,356.59,359.76,0.88,3.6,100g
+P030,Amul Toilet Cleaner 200g,Amul,Beverages,120.78,134.24,10.03,3.8,200g
+P031,Aashirvaad Paneer 1kg,Aashirvaad,Frozen,231.94,247.03,6.11,3.6,1kg
+P032,Dove Handwash 250ml,Dove,Bakery,189.16,217.33,12.96,3.6,250ml
+P033,Dove Handwash 100g,Dove,Grocery,325.16,369.54,12.01,3.7,100g
+P034,Surf Excel Oil 2L,Surf Excel,Cleaning,84.89,87.29,2.75,4.2,2L
+P035,Britannia Paneer 1L,Britannia,Grocery,397.69,433.45,8.25,3.6,1L
+P036,Fortune Tea 200g,Fortune,Dairy,368.16,381.71,3.55,4.1,200g
+P037,Dettol Tea 500ml,Dettol,Cleaning,45.41,48.14,5.68,5,500ml
+P038,Colgate Handwash 2kg,Colgate,Frozen,315.52,354.36,10.96,4.7,2kg
+P039,Dove Toothpaste 500g,Dove,Frozen,138.82,162.42,14.53,4.4,500g
+P040,Fortune Milk 250ml,Fortune,Dairy,40.92,44.07,7.15,4.9,250ml
+P041,Fortune Toilet Cleaner 100g,Fortune,Snacks,56.82,58.45,2.79,4.4,100g
+P042,Dove Salt 500ml,Dove,Cleaning,431.62,471.97,8.55,4.4,500ml
+P043,Amul Juice 500ml,Amul,Grocery,276.63,300.16,7.84,4.9,500ml
+P044,Surf Excel Biscuits 1kg,Surf Excel,Beverages,188.81,209.98,10.08,3.9,1kg
+P045,Parle Oil 100g,Parle,Grocery,291.31,318.16,8.44,3.6,100g
+P046,Fortune Biscuits 2L,Fortune,Cleaning,79.2,83.58,5.24,3.6,2L
+P047,Surf Excel Atta 2kg,Surf Excel,Beverages,211.56,230.33,8.15,4,2kg
+P048,Nestle Juice 100g,Nestle,Household,393.7,412.21,4.49,4.5,100g
+P049,Godrej Salt 2kg,Godrej,Snacks,397.26,447.06,11.14,3.7,2kg
+P050,Colgate Toothpaste 250ml,Colgate,Cleaning,305.24,350,12.79,4.3,250ml
+P051,Colgate Juice 200g,Colgate,Dairy,214.05,223.32,4.15,3.5,200g
+P052,Nestle Atta 2kg,Nestle,Snacks,344.67,375.79,8.28,4.1,2kg
+P053,Amul Tea 200g,Amul,Grocery,343.81,351.69,2.24,3.6,200g
+P054,Parle Handwash 500g,Parle,Household,77.42,81.17,4.62,4.8,500g
+P055,Nestle Toothpaste 250ml,Nestle,Dairy,312.65,347.39,10,4,250ml
+P056,Fortune Cookies 750ml,Fortune,Bakery,81.05,94.19,13.95,4.8,750ml
+P057,Nestle Milk 500ml,Nestle,Snacks,91.38,106.09,13.87,4.7,500ml
+P058,Maggi Atta 2kg,Maggi,Cleaning,391.49,397.94,1.62,4.8,2kg
+P059,Britannia Toothpaste 1kg,Britannia,Frozen,383.53,411.96,6.9,4,1kg
+P060,Nestle Milk 1kg,Nestle,Cleaning,316.68,336.82,5.98,3.9,1kg
+P061,Tata Juice 250ml,Tata,Personal Care,237.56,264.51,10.19,4.8,250ml
+P062,Parle Tea 200g,Parle,Dairy,472.77,485.79,2.68,4.9,200g
+P063,Colgate Shampoo 200g,Colgate,Dairy,203.61,228.59,10.93,4,200g
+P064,Harpic Handwash 200g,Harpic,Household,438.88,451.76,2.85,3.6,200g
+P065,Maggi Tea 2L,Maggi,Dairy,365.2,407.13,10.3,4.9,2L
+P066,Patanjali Handwash 250ml,Patanjali,Cleaning,48.25,53.59,9.96,4,250ml
+P067,Parle Toilet Cleaner 2kg,Parle,Grocery,158.13,168.46,6.13,4.1,2kg
+P068,Colgate Toothpaste 500g,Colgate,Household,190.51,221.81,14.11,4.5,500g
+P069,Godrej Shampoo 750ml,Godrej,Snacks,150.94,164.46,8.22,3.5,750ml
+P070,Colgate Paneer 500ml,Colgate,Cleaning,269.09,298.39,9.82,4.2,500ml
+P071,Dettol Oil 2L,Dettol,Cleaning,343.25,400.99,14.4,4.6,2L
+P072,Dove Toilet Cleaner 2kg,Dove,Grocery,307.19,338.65,9.29,3.6,2kg
+P073,Nestle Toothpaste 2kg,Nestle,Cleaning,398.15,407.15,2.21,3.6,2kg
+P074,Dettol Handwash 1L,Dettol,Grocery,406.87,445.35,8.64,4.6,1L
+P075,Maggi Toothpaste 500ml,Maggi,Frozen,81.47,90.83,10.31,4.8,500ml
+P076,Britannia Toothpaste 500ml,Britannia,Grocery,89.42,104.43,14.37,4.3,500ml
+P077,Amul Tea 1kg,Amul,Household,397.94,427.2,6.85,4.7,1kg
+P078,Dove Shampoo 2L,Dove,Household,152.78,172.3,11.33,4.2,2L
+P079,Britannia Butter 500ml,Britannia,Household,424.83,455.29,6.69,3.7,500ml
+P080,Britannia Biscuits 1L,Britannia,Frozen,332.86,380.85,12.6,3.9,1L
+P081,Nestle Juice 1L,Nestle,Household,125.94,134.84,6.6,4.6,1L
+P082,Surf Excel Noodles 250ml,Surf Excel,Personal Care,443.22,448.65,1.21,3.7,250ml
+P083,Maggi Salt 1kg,Maggi,Snacks,208.27,219.14,4.96,4.2,1kg
+P084,Amul Handwash 500ml,Amul,Cleaning,414.52,454.32,8.76,4.5,500ml
+P085,Britannia Milk 1L,Britannia,Bakery,451.35,472.52,4.48,4.1,1L
+P086,Godrej Cookies 2L,Godrej,Bakery,327.91,372.62,12,4.8,2L
+P087,Dettol Handwash 2kg,Dettol,Cleaning,238.35,253.11,5.83,4.5,2kg
+P088,Nestle Butter 500g,Nestle,Bakery,239.68,244.35,1.91,4.4,500g
+P089,Amul Shampoo 750ml,Amul,Bakery,333.98,338.24,1.26,4.1,750ml
+P090,Britannia Milk 500g,Britannia,Frozen,137.77,144.88,4.91,4.2,500g
+P091,Parle Paneer 2kg,Parle,Bakery,446.46,476.58,6.32,4.8,2kg
+P092,Dettol Milk 2L,Dettol,Dairy,473.71,499.96,5.25,4.5,2L
+P093,Nestle Toothpaste 100g,Nestle,Dairy,115.33,115.69,0.31,3.7,100g
+P094,Aashirvaad Shampoo 200g,Aashirvaad,Frozen,441.77,474.92,6.98,3.9,200g
+P095,Parle Shampoo 750ml,Parle,Snacks,430.57,482.59,10.78,4.7,750ml
+P096,Aashirvaad Shampoo 200g,Aashirvaad,Personal Care,30.82,32.33,4.68,4.5,200g
+P097,Maggi Salt 1kg,Maggi,Bakery,266.31,304.21,12.46,3.9,1kg
+P098,Patanjali Paneer 750ml,Patanjali,Personal Care,66.58,78.11,14.76,4.7,750ml
+P099,Parle Juice 500ml,Parle,Household,182.85,197.87,7.59,4,500ml
+P100,Britannia Salt 1L,Britannia,Bakery,215.7,228.09,5.43,4.8,1L
+P101,Dettol Atta 500ml,Dettol,Snacks,318.32,372.22,14.48,3.9,500ml
+P102,Nestle Oil 1L,Nestle,Household,203.95,229.08,10.97,3.9,1L
+P103,Britannia Biscuits 200g,Britannia,Cleaning,426.96,443.18,3.66,4.2,200g
+P104,Harpic Milk 250ml,Harpic,Bakery,244.72,257.27,4.88,4.2,250ml
+P105,Parle Biscuits 250ml,Parle,Personal Care,395.99,442.55,10.52,3.9,250ml
+P106,Amul Salt 1kg,Amul,Household,127.56,135.85,6.1,4.3,1kg
+P107,Surf Excel Oil 1L,Surf Excel,Frozen,395,400.61,1.4,3.8,1L
+P108,Patanjali Juice 2kg,Patanjali,Cleaning,277.91,299.15,7.1,4.3,2kg
+P109,Maggi Noodles 250ml,Maggi,Household,342.86,357.37,4.06,3.9,250ml
+P110,Tata Salt 250ml,Tata,Cleaning,322.88,376.58,14.26,4.5,250ml
+P111,Surf Excel Biscuits 1L,Surf Excel,Cleaning,313.92,367.8,14.65,4.3,1L
+P112,Colgate Biscuits 1kg,Colgate,Grocery,125.71,129.19,2.69,3.5,1kg
+P113,Fortune Milk 2kg,Fortune,Snacks,447.18,487.66,8.3,4.5,2kg
+P114,Aashirvaad Butter 200g,Aashirvaad,Frozen,24.78,25.89,4.27,4.2,200g
+P115,Parle Biscuits 100g,Parle,Snacks,437.89,471.71,7.17,4.7,100g
+P116,Maggi Shampoo 200g,Maggi,Frozen,319.55,322.13,0.8,3.7,200g
+P117,Harpic Toothpaste 200g,Harpic,Personal Care,68.04,76.86,11.47,4.4,200g
+P118,Nestle Handwash 2L,Nestle,Cleaning,220.56,236.25,6.64,4.8,2L
+P119,Maggi Shampoo 750ml,Maggi,Personal Care,41.87,48.91,14.4,3.6,750ml
+P120,Nestle Biscuits 1kg,Nestle,Cleaning,329.06,337.01,2.36,3.8,1kg
+P121,Tata Handwash 100g,Tata,Snacks,215.19,236.24,8.91,3.9,100g
+P122,Surf Excel Cookies 2kg,Surf Excel,Personal Care,427.98,432.61,1.07,3.9,2kg
+P123,Colgate Salt 500ml,Colgate,Cleaning,254.07,281.39,9.71,4.9,500ml
+P124,Britannia Milk 200g,Britannia,Snacks,95.05,99.64,4.61,4.6,200g
+P125,Harpic Salt 1L,Harpic,Personal Care,233.81,244.98,4.56,4.1,1L
+P126,Colgate Oil 2L,Colgate,Household,209.48,230.12,8.97,4.8,2L
+P127,Patanjali Biscuits 750ml,Patanjali,Beverages,31.31,32.42,3.43,4.5,750ml
+P128,Britannia Shampoo 2kg,Britannia,Dairy,34.85,39.31,11.34,4.2,2kg
+P129,Dove Atta 2kg,Dove,Frozen,465.93,498.53,6.54,4.7,2kg
+P130,Tata Handwash 250ml,Tata,Frozen,161.9,179.99,10.05,4.8,250ml
+P131,Parle Biscuits 1L,Parle,Bakery,317.72,338.04,6.01,4.6,1L
+P132,Amul Noodles 200g,Amul,Frozen,138.69,141.15,1.74,4.7,200g
+P133,Britannia Juice 100g,Britannia,Household,407,437.3,6.93,3.6,100g
+P134,Fortune Paneer 750ml,Fortune,Beverages,242.09,259.28,6.63,3.6,750ml
+P135,Colgate Tea 500g,Colgate,Household,137.35,158.25,13.21,4.2,500g
+P136,Amul Biscuits 500g,Amul,Cleaning,260.85,284.4,8.28,3.6,500g
+P137,Britannia Salt 1L,Britannia,Grocery,323.26,330.9,2.31,4.9,1L
+P138,Colgate Handwash 2kg,Colgate,Household,358.83,420.67,14.7,3.9,2kg
+P139,Fortune Toothpaste 500ml,Fortune,Snacks,427.26,462.5,7.62,4.8,500ml
+P140,Britannia Paneer 2kg,Britannia,Grocery,374.37,399.2,6.22,4.9,2kg
+P141,Fortune Biscuits 100g,Fortune,Personal Care,322.22,368.5,12.56,4.4,100g
+P142,Dove Oil 500g,Dove,Frozen,264.09,278.52,5.18,4.3,500g
+P143,Fortune Tea 1L,Fortune,Bakery,169.51,174.45,2.83,4.5,1L
+P144,Harpic Butter 1kg,Harpic,Bakery,389.71,392.26,0.65,4.6,1kg
+P145,Patanjali Juice 500ml,Patanjali,Bakery,361.2,400.35,9.78,3.7,500ml
+P146,Amul Shampoo 2L,Amul,Snacks,176.65,179.36,1.51,4.8,2L
+P147,Tata Milk 1L,Tata,Household,344.21,366.77,6.15,4.5,1L
+P148,Aashirvaad Paneer 1L,Aashirvaad,Grocery,460.57,485.22,5.08,4.5,1L
+P149,Dove Butter 250ml,Dove,Grocery,316.19,343.69,8,4.9,250ml
+P150,Dove Milk 2L,Dove,Frozen,305.24,316.38,3.52,4.5,2L
+P151,Colgate Handwash 200g,Colgate,Cleaning,433.74,489.6,11.41,4.6,200g
+P152,Tata Cookies 500g,Tata,Frozen,163.04,163.74,0.43,4,500g
+P153,Amul Noodles 250ml,Amul,Personal Care,218.43,226.73,3.66,4.1,250ml
+P154,Dove Atta 500g,Dove,Snacks,50.34,57.9,13.06,4.4,500g
+P155,Surf Excel Atta 750ml,Surf Excel,Frozen,118.87,131.45,9.57,4.2,750ml
+P156,Dove Tea 1L,Dove,Dairy,145.1,158.06,8.2,3.6,1L
+P157,Parle Cookies 500ml,Parle,Personal Care,122.29,140.05,12.68,3.8,500ml
+P158,Maggi Toothpaste 200g,Maggi,Frozen,192.13,203.05,5.38,3.9,200g
+P159,Patanjali Butter 100g,Patanjali,Personal Care,322.11,335.95,4.12,4.3,100g
+P160,Dove Cookies 750ml,Dove,Dairy,223.39,258.43,13.56,3.9,750ml
+P161,Nestle Paneer 750ml,Nestle,Cleaning,171.05,189.11,9.55,4.4,750ml
+P162,Dove Tea 200g,Dove,Snacks,319.29,321.18,0.59,4.7,200g
+P163,Amul Salt 500g,Amul,Beverages,434.25,456.62,4.9,4.1,500g
+P164,Surf Excel Tea 2L,Surf Excel,Snacks,447.6,486.31,7.96,4.9,2L
+P165,Britannia Tea 2kg,Britannia,Snacks,385.78,415.85,7.23,4.7,2kg
+P166,Patanjali Oil 200g,Patanjali,Beverages,472.02,482.19,2.11,4.9,200g
+P167,Britannia Noodles 2L,Britannia,Bakery,59.6,63.35,5.92,3.9,2L
+P168,Tata Juice 250ml,Tata,Frozen,364.61,379.53,3.93,4.1,250ml
+P169,Dove Juice 200g,Dove,Beverages,131.73,132.23,0.38,4.8,200g
+P170,Fortune Toothpaste 750ml,Fortune,Beverages,299.34,330.87,9.53,4.2,750ml
+P171,Patanjali Salt 500ml,Patanjali,Personal Care,74.73,87.09,14.19,4,500ml
+P172,Dettol Toothpaste 200g,Dettol,Grocery,436.83,445.88,2.03,4.2,200g
+P173,Dove Shampoo 500ml,Dove,Household,367.56,376.29,2.32,4.1,500ml
+P174,Tata Handwash 750ml,Tata,Frozen,450.98,470.75,4.2,4.5,750ml
+P175,Surf Excel Toothpaste 1L,Surf Excel,Frozen,424.2,430.62,1.49,4.5,1L
+P176,Fortune Handwash 100g,Fortune,Beverages,130.29,152.42,14.52,4.9,100g
+P177,Britannia Juice 200g,Britannia,Frozen,110.13,121.81,9.59,5,200g
+P178,Amul Atta 1kg,Amul,Beverages,385.5,397.75,3.08,4.7,1kg
+P179,Fortune Toothpaste 750ml,Fortune,Cleaning,395.95,410.27,3.49,4.7,750ml
+P180,Nestle Butter 2kg,Nestle,Dairy,419.42,492.33,14.81,4.3,2kg
+P181,Nestle Juice 200g,Nestle,Snacks,427.26,435.89,1.98,4,200g
+P182,Nestle Noodles 750ml,Nestle,Cleaning,26.47,27.57,3.98,3.7,750ml
+P183,Maggi Cookies 200g,Maggi,Household,47.12,50.51,6.72,4,200g
+P184,Harpic Toilet Cleaner 1L,Harpic,Grocery,114.68,126.34,9.23,4.6,1L
+P185,Godrej Oil 2kg,Godrej,Household,327.25,328.8,0.47,5,2kg
+P186,Britannia Juice 500ml,Britannia,Bakery,64.14,71.82,10.69,4.2,500ml
+P187,Godrej Shampoo 250ml,Godrej,Grocery,89.48,91.2,1.89,4.4,250ml
+P188,Harpic Handwash 250ml,Harpic,Household,457.83,497.42,7.96,4.2,250ml
+P189,Harpic Paneer 200g,Harpic,Bakery,311.21,356.85,12.79,4.5,200g
+P190,Nestle Handwash 1kg,Nestle,Household,228.63,236.75,3.43,4,1kg
+P191,Dettol Cookies 500ml,Dettol,Bakery,61.44,65.64,6.4,4.5,500ml
+P192,Parle Salt 1L,Parle,Snacks,62.97,63.79,1.28,4.1,1L
+P193,Patanjali Toilet Cleaner 500g,Patanjali,Beverages,41.79,48.79,14.35,4.3,500g
+P194,Dove Noodles 500ml,Dove,Grocery,377.3,439.33,14.12,4.1,500ml
+P195,Godrej Shampoo 2kg,Godrej,Dairy,167.35,169.98,1.55,4.3,2kg
+P196,Aashirvaad Butter 1kg,Aashirvaad,Frozen,62.82,71.94,12.68,4.1,1kg
+P197,Nestle Toothpaste 750ml,Nestle,Personal Care,355.8,407.47,12.68,5,750ml
+P198,Britannia Shampoo 100g,Britannia,Household,407.99,465.96,12.44,3.9,100g
+P199,Aashirvaad Tea 2kg,Aashirvaad,Personal Care,182.96,183.12,0.09,4.8,2kg
+P200,Harpic Atta 200g,Harpic,Bakery,320.9,375.67,14.58,3.6,200g
